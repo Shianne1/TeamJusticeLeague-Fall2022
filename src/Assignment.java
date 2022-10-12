@@ -6,6 +6,8 @@ public class Assignment {
        public static void main(String[] args){
 
        System.out.println("This is a simple change");
+       //change made by Dsmith831 in IntelliJ
+       System.out.println("This is another simple change.");
    }
 
 
