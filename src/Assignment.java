@@ -8,6 +8,9 @@ public class Assignment {
        System.out.println("This is a simple change");
        //change made by Dsmith831 in IntelliJ
        System.out.println("This is another simple change.");
+       //change made by LissetPalmero in Intellij  
+       System.out.println("This is a little change.");
+           
    }
 
 
